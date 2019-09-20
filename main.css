@@ -1,0 +1,93 @@
+body {
+    background-color: #000000;
+}
+#tribute {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: #ffffff;
+}
+
+.rip {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: #ffffff;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#who {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: #ffffff;
+}
+
+.who {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+span {
+    font-weight: 900;
+    font-variant: small-caps;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.films {
+    font-family: 'Permanent Marker', cursive;
+    text-align: left;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: #ffffff;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+table, tr, td, th {
+    border: 2px solid #ffffff;
+    padding: 8px;
+    border-collapse: collapse;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    
+}
+table {
+    width: 100%;
+}
+
+.button {
+    background-color: #000000;
+    border: 2px solid;
+    border-radius: 12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button:hover {
+    background-color: gray;
+    color: white;
+}
